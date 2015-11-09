@@ -10,7 +10,7 @@ do
 
 		mkdir -p "/test/$(date +'%Y_%m_%d-%H')"
 		cd -P "/test/$(date +'%Y_%m_%d-%H')"
-		echo "Ordner erstellt."
+		echo "Folder for Day created."
 
 	else
 
